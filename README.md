@@ -1,6 +1,5 @@
 ### Hi there, I'm [Sherman!](https://www.yeliulee.com) 👋
 
-[![Yeliulee's Github Stats](https://github-readme-stats.vercel.app/api?username=yeliulee&count_private=true&show_icons=true&theme=material-palenight)](https://www.yeliulee.com)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeliulee&layout=compact&theme=material-palenight)](https://www.yeliulee.com)
 
 
