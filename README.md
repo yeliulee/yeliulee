@@ -13,5 +13,3 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeliulee&repo=rust-wasm-mirage-tank&theme=material-palenight)](https://github.com/yeliulee/rust-wasm-mirage-tank)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeliulee&repo=kinship_calculator_dart&theme=material-palenight)](https://github.com/yeliulee/kinship_calculator_dart)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeliulee&repo=flutter-examples&theme=material-palenight)](https://github.com/yeliulee/flutter-examples)
